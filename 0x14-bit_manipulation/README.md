@@ -1,11 +1,11 @@
-#0x14. C - Bit manipulation
-##About Project
+# 0x14. C - Bit manipulation
+## About Project
 An introductory project on:
 - Bit manipulation
 - Bitwise operators
 
-##File Descriptions
-###Mandatory Tasks
+## File Descriptions
+### Mandatory Tasks
 0-binary_to_uint.c - function that converts a binary number to an unsigned int.
 
 1-print_binary.c - function that prints the binary representation of a number.
@@ -18,7 +18,7 @@ An introductory project on:
 
 5-flip_bits.c - function that returns the number of bits you would need to flip to get from one number to another.
 
-###Advanced Tasks
+### Advanced Tasks
 100-get_endianness.c - function that checks the endianness.
 
 101-password - finds the password for this program and saves it in a file.
